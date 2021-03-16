@@ -2,3 +2,13 @@
   width: 25%;
   height: 25%;
 }
+
+body {
+  background-color:lavender;
+}
+
+.text {
+  color: #0033cc;
+  font-family: cursive;
+  font-size: 70%;
+}
