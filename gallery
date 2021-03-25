@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Manindra Agrawal</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1 class="title">Gallery</h1>
+    <div>
+    </div>
+    <table style="width:100%">
+      <tr>
+        <td><img class="gal" src="./images/person.jpg" alt="Picture of Manindra Agrawal"></td>
+        <td>Manindra Agrawal during his university lecture</td>
+      </tr>
+      <tr>
+        <td><img class="gal" src="./images/person 1.jpg" alt="Picture of Manindra Agrawal"></td>
+        <td>Manindra Agrawal in his hatural habitat</td>
+      </tr>
+      <tr>
+        <td><img class="gal" src="./images/person 2.jpg" alt="Picture of Manindra Agrawal"></td>
+        <td>Manindra Agrawal posing for a picture with his family</td>
+      </tr>
+      <tr>
+        <td><img class="gal" src="./images/person 4.jpg" alt="Picture of Manindra Agrawal"></td>
+        <td>Manindra Agrawal posing for a picture after an assembly</td>
+      </tr>
+    </table>
+    <a href="https://manindra-agrawal.aliceqiao.repl.co">Home page</a>
+    <a href="https://manindra-agrawal.aliceqiao.repl.co/bibliography">Bibliography</a>
+    <script src="script.js"></script>
+  </body>
+</html>

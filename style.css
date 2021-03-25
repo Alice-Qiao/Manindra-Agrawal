@@ -5,10 +5,27 @@
 
 body {
   background-color: lavender;
+  text-align: center;
 }
 
 .text {
   color: #03c;
   font-family: cursive;
   font-size: 70%;
+}
+
+.title {
+  color: #03c;
+  font-family: cursive;
+  font-size: 180%;
+}
+
+table {
+  color: #03c;
+  font-family: cursive;
+  font-size: 70%;
+  text-align: center;
+  border-style: dotted;
+  border-width: 1px;
+  border-color: #03c
 }

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Manindra Agrawal</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <h1 class="title">Bibliography</h1>
+  <p class="text">https://sites.google.com/view/manindra/home</p>
+  <p class="text">http://www.nasonline.org/member-directory/members/20035865.html</p>
+  <p class="text">https://www.quora.com/What-it-is-like-to-be-in-a-class-of-Manindra-Agrawal</p>
+  <p class="text">https://dblp.org/pid/a/ManindraAgrawal.html</p>
+  <p class="text">https://www.celebrityborn.com/biography/manindra-agrawal/2768<p>
+  <a href="https://manindra-agrawal.aliceqiao.repl.co">Home page</a>
+  <a href="https://manindra-agrawal.aliceqiao.repl.co/gallery">Gallery</a>
+  <script src="script.js"></script>
+  </body>
+</html>
